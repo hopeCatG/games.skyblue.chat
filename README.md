@@ -5,7 +5,7 @@
 
 ### 采用colorui 全局样式快速完成编写
 
-### 采用flex 和 grid 布局方式
+### 采用flex 和 grid 布局方式 ，像素单位 rpx
 
 ### 技术栈 uniapp vue3 TypeScript
 
